@@ -1,0 +1,3 @@
+#JavsScriptで作った初心者向け簡易todoアプリです。
+
+alertダイアログ、consoleにて表示させて遊んでみてください。
